@@ -1,6 +1,3 @@
-[submodule "speed-test-client"]
-	path = speed-test-client
-	url = git@github.com:robertsolorzano/speed-test-client.git
 [submodule "client"]
 	path = client
 	url = git@github.com:robertsolorzano/speed-test-client.git
